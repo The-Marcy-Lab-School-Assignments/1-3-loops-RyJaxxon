@@ -14,9 +14,9 @@ const loop5to10 = () => {
 
 // you do NOT need an if check
 const loopEvenNumbersUpTo10 = () => {
-  // for (let i = 0; i < 10; i += 2) {
-  //   console.log(i);
-  // }
+  for (let i = 0; i < 10; i += 2) {
+    console.log(i);
+  }
 };
 // loopEvenNumbersUpTo10();
 
