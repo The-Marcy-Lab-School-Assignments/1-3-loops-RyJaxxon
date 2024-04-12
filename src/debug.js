@@ -1,3 +1,4 @@
+/** FEEDBACK: In the future, ensure to remove any commented out code, this includes console.logs! */
 const brokenLoop = (start, end) => {
   let result = '';
   for (let i = start; i <= end; i++) {
